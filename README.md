@@ -32,7 +32,11 @@ I wanted to use sprites for each point and an openGL shader for their color, but
 I also found that using a random position for each drop made the output too unpredictable, so I settled on leaving the drops' x-positions random, but mapping their y-axis to their octaves.
 
 ## More screenshots
+### Minimal view
 ![minimal view](screenshots/normal-minimal.png)
+### Silence
 ![silent](screenshots/silent-details.png)
+### Bright sounds
 ![bright sounds](screenshots/bright-detail.png)
+### Dark sounds
 ![dark sounds](screenshots/dark-detail.png)
