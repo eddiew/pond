@@ -33,6 +33,6 @@ I also found that using a random position for each drop made the output too unpr
 
 ## More screenshots
 ![minimal view](screenshots/normal-minimal.png)
-![silent](screenshots/silent-detail.png)
+![silent](screenshots/silent-details.png)
 ![bright sounds](screenshots/bright-detail.png)
 ![dark sounds](screenshots/dark-detail.png)
