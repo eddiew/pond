@@ -1,5 +1,5 @@
 # Pond - A Zen audio visualizer
-![alt text](screenshots/normal-detail.png)
+![Pond detail view](screenshots/normal-detail.png)
 ## To Build
 1. Install OpenFrameworks with the ofxFft addon. You may also need to install fftw.
 2. edit src/ofApp.cpp:14 to use the correct audio input device (remove to use default device)
@@ -30,3 +30,9 @@ I tried to map each distinct sound to its own drop, but found this to be too dif
 I wanted to use sprites for each point and an openGL shader for their color, but I couldn't figure out how to make that work.
 
 I also found that using a random position for each drop made the output too unpredictable, so I settled on leaving the drops' x-positions random, but mapping their y-axis to their octaves.
+
+## More screenshots
+![minimal view](screenshots/normal-minimal.png)
+![silent](screenshots/silent-detail.png)
+![bright sounds](screenshots/bright-detail.png)
+![dark sounds](screenshots/dark-detail.png)
