@@ -2,8 +2,8 @@
 ![Pond detail view](screenshots/normal-detail.png)
 ## To Build
 1. Install OpenFrameworks with the ofxFft addon. You may also need to install fftw.
-2. edit src/ofApp.cpp:14 to use the correct audio input device (remove to use default device)
-3. edit config.make to point to your openframeworks installation
+2. edit `src/ofApp.cpp:14` to use the correct audio input device (remove to use default device)
+3. edit `config.make` to point to your openframeworks installation
 4. run `make`
     
 ## To use:
